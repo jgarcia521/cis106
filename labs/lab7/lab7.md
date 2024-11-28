@@ -14,7 +14,12 @@
 ![alt text](q2.5.png)
 
 ## Question 3
-![alt text](q3.png)
-
-## Question 4
-![alt text](q4.png)
+![alt text](q3.1.png)
+![alt text](q3.2.png)
+![alt text](q3.3.png)
+![alt text](q3.5.png)
+![alt text](q3.6.png)
+![alt text](q3.7.png)
+![alt text](Q3.8.png)
+![alt text](q3.9.png)
+![alt text](q3.10.png)
